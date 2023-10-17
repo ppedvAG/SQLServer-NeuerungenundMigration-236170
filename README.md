@@ -6,3 +6,7 @@ KursRepository zu Kurs SQL Server - Neuerungen und Migration der ppedv AG
 
 ## Setup und bestpractice
 ### tempdb , Volumewartungstask, MAXDOP, MAX RAM
+
+## Scoped DAtabase
+### Accelerated database Recovery
+### Zeilenversionierung Read Commit Snapshot
